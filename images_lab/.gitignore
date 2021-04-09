@@ -1,0 +1,11 @@
+.vscode
+data
+env
+folders_with_images_classified
+cnn.py
+own_model_summary.txt
+own_model_training_logs.csv
+own_model.h5
+transfer_learning_model_summary.txt
+transfer_learning_model_training_logs.csv
+transfer_learning_model.h5
